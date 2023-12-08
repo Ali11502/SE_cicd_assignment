@@ -1,4 +1,3 @@
-# This is a sample workflow file that runs the Python code on every push event
 
 name: Python CI
 
